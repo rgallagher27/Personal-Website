@@ -18,15 +18,10 @@
       <li>
         <a href="javascript:;" id="show_icons" title="Network" class="soc1"><img src="images/soc1.png" alt=""></a>
         <div class="icons">
-          <a href="#" title="Facebook"><img src="images/socico1.png" alt=""></a>
-          <a href="#" title="Twitter"><img src="images/socico2.png" alt=""></a>
-          <a href="#" title="Google+"><img src="images/socico3.png" alt=""></a>
-          <a href="#" title="LinkedIn"><img src="images/socico4.png" alt=""></a>
-          <a href="#" title="Flickr"><img src="images/socico5.png" alt=""></a>
-          <a href="#" title="Pinterest"><img src="images/socico6.png" alt=""></a>
-          <a href="#" title="Vimeo"><img src="images/socico7.png" alt=""></a>
-          <a href="#" title="YouTube"><img src="images/socico8.png" alt=""></a>
-          <a href="#" title="Dribble"><img src="images/socico9.png" alt=""></a>
+          <a href="https://www.facebook.com/ross.gallagher27" title="Facebook"><img src="images/socico1.png" alt=""></a>
+          <a href="https://twitter.com/RossGallagher92" title="Twitter"><img src="images/socico2.png" alt=""></a>
+          <a href="https://plus.google.com/101715468578313158690" title="Google+"><img src="images/socico3.png" alt=""></a>
+          <a href="http://lnkd.in/-Tb5GY" title="LinkedIn"><img src="images/socico4.png" alt=""></a>
         </div>
       </li>
       <li>
