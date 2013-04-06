@@ -36,12 +36,13 @@
             <h2 class="ind1">Main Services</h2>
             <ul class="service_list">
               <li>
-                <h3>Website Design</h3>
-                Ut tellus dolor, dapibus eget, ele- mentum vel, cursus eleifend, elit. Aenean auctor wisi et urnaliquam erat volutpat. Duis ac turpis. Integer rutrum ante.
+                <h3>App Development</h3>
+                I offer app development services on both Android and iOS platforms, feel free to contact me for a quote.
               </li>
               <li class="last">
-                <h3>Programing</h3>
-                Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus. Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. Vivamus eget nibh. 
+                <h3>Web Development</h3>
+                I also offer Web development services such as personal website, blog or product marketing, feel free to contact me for a quote.
+                <br /><br /><br />
               </li>
             </ul>
             <div class="button_wrap2">
