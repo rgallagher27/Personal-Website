@@ -13,7 +13,9 @@
         </nav>
     </div>
     <div class="description">
-      <div class="inner">Hi there! I'm a creative mobile developer and student currently working/studying in Glasgow, Scotland. I design and make cool Apps in the Health and Fitness section of the Android and iOS App stores. Feel free to Contact me and view my portfolio and thanks for visiting my website...</div>
+      <div class="inner">Hi there! I'm a creative mobile developer and student currently working/studying in Glasgow, Scotland. 
+        I design and make cool Apps in the Health and Fitness section of the Android and iOS App stores. 
+        Feel free to Contact me and view my portfolio and thanks for visiting my website...</div>
     </div>
     <div class="clear"></div>
   </div>

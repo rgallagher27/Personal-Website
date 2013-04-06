@@ -60,7 +60,7 @@
           </div>
         </div>
         <div class="clear"></div>
-        <a href="mailto:mail@companyname.com" class="hire_link"></a>
+        <a href="mailto:ross_gallagher@rossgallagher.co.uk" class="hire_link"></a>
       </div>
     </article>
   </div>
