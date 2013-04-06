@@ -25,7 +25,7 @@
         </div>
       </li>
       <li>
-        <a href="#" title="Download my resume" class="soc2"><img src="images/soc2.png" alt=""></a>
+        <a href="/RossGallagherCV.pdf" title="Download my resume" class="soc2"><img src="images/soc2.png" alt=""></a>
       </li>
     </ul>
     <div class="clear"></div>
