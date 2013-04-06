@@ -57,7 +57,7 @@
                       <div class="portfolio-box">
                         <div class="portoflio-img">
                           <a href="https://play.google.com/store/apps/details?id=com.abworkouts" >
-                            <img src="images/20-killer-abs.jpg" alt="">
+                            <img src="images/20-killer-abs-1.jpg" alt="">
                             <span class="description">
                               <span class="inner">
                                 20 Killer Ab Exercises<br />
